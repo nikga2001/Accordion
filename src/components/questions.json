@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How many team members can I invite?",
+    "answer": "You can invite up to 10 team members on our basic plan. For larger teams, consider upgrading to our premium plan for unlimited invitations."
+  },
+  {
+    "question": "What is the maximum file upload size?",
+    "answer": "The maximum file upload size is 2GB per file. Ensure that your total storage usage does not exceed your allotted space."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, go to the login page and click on Forgot Password. Follow the instructions sent to your registered email address."
+  },
+  {
+    "question": "Can I cancel my subscription?",
+    "answer": "Yes, you can cancel your subscription at any time through your account settings. Your access will continue until the end of your billing cycle."
+  },
+  {
+    "question": "Do you provide additional support?",
+    "answer": "Yes, we offer 24/7 customer support via email and chat. For more personalized assistance, you can opt for our premium support package."
+  }
+]
