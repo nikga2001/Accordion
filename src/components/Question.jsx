@@ -37,9 +37,9 @@ const QuestionAnswerDiv = styled.div`
   width: 28rem;
   display: flex;
   flex-direction: column;
-  gap: 1.3rem;
+  gap: 2rem;
   border-bottom: 1px solid #e8e8e8;
-  padding: 1.6rem;
+  padding: 1.9rem;
   cursor: pointer;
 `;
 

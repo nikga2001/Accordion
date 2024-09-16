@@ -13,6 +13,7 @@ box-sizing:border-box;
 
 body {
    min-height:100vh;
+   
    display:flex;
    justify-content:center;
    align-items:center;
