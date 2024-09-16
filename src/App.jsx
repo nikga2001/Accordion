@@ -47,7 +47,7 @@ const Container = styled.main`
   background-image: url("/images/bg-pattern-mobile.svg");
   background-repeat: no-repeat;
   background-position: center 0px;
-
+  background-size: 250px;
   height: 535px;
   position: relative;
   margin-top: 70px;
